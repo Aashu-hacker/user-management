@@ -124,7 +124,7 @@ CREATE TABLE users (
 
 4. **Push to GitHub**
    ```bash
-   git remote add origin https://github.com/your-username/user-management.git
+   git remote add origin https://github.com/Aashu-hacker/user-management.git
    git push -u origin main
    ```
 
