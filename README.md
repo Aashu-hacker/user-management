@@ -16,7 +16,7 @@ This project is a complete CRUD (Create, Read, Update, Delete) user management s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/user-management.git
+   git clone https://github.com/Aashu-hacker/user-management.git
    cd user-management/backend
    ```
 
